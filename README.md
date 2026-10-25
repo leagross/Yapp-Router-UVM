@@ -1,4 +1,6 @@
 # UVM Verification of the YAPP Packet Router
+<img width="1886" height="795" alt="Screenshot 2026-10-19 121206" src="https://github.com/user-attachments/assets/2210141a-a0b6-456c-8c48-119ff8fe6ad1" />
+<img width="1912" height="318" alt="channel_2" src="https://github.com/user-attachments/assets/be475cde-5d15-4224-8862-d95d390d17ac" />
 
 SystemVerilog/UVM testbench built progressively, lab by lab, around a small
 packet router DUT (the **YAPP router**), following Cadence's *SystemVerilog
